@@ -1,1 +1,1 @@
-# Custom-Cursor-Set
+Here is how to set it up :
